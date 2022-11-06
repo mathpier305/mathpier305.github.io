@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mathurin.test.myapplication",
+      "sha256_cert_fingerprints":
+      ["BA:0C:5A:0E:E2:A2:BD:FD:CA:AA:CD:D7:60:0A:7B:72:08:19:27:D1:03:8E:34:B9:8E:2D:B5:84:06:31:DC:96"]
+    }
+  }]
